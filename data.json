@@ -227,7 +227,7 @@
   {
     "video_title": "عثمان موسم 1 الحلقه 26",
     "video_download": "https://archive.org/download/ms_series_os/os26.mp4",
-    "video_server_1": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb/?serv=8942090' frameborder='0' allow='autoplay'></iframe>",
+    "video_server_1": "<video id='pplayer-video' playsinline='' poster='' hola-pid='1' src='blob:https://www.atv.com.tr/94dc9bc6-3bfa-4d53-b844-db7d06ca47f2' __idm_id__='480035842'></video>",
     "video_server_2": "<video controls='controls' controlslist='nodownload' height='100%' poster='https://1.bp.blogspot.com/-eYFdYbh-Meg/XwTs-0Ipg2I/AAAAAAAAA48/04Ju2lU4EEgXFCjA_tnCwVl5yEsuJ3RgwCK4BGAsYHg/s320/thumbnail_os.png' preload='metadata' width='100%'><source src='https://archive.org/download/ms_series_os/os2.mp4'></source></video>",
     "video_server_3": "",
     "video_server_4": "",
