@@ -1,154 +1,125 @@
 [
   {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+    "category_title": "عثمان 1",
+    "category":[
+      {
+        "series_title": "المؤسس عثمان 1",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 5",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      }
+    ]
   },
   {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+    "category_title": "عثمان 2",
+    "category":[
+      {
+        "series_title": "المؤسس عثمان 1",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 4",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      }
+    ]
   },
   {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-  },
-  {
-    "season_title": "المؤسس عثمان",
-    "season_number": "الموسم الأول",
-    "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-    "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-    "season_summary": "المؤسس عثمان مسلسل تاريخي درامي تركي ,بدا عرضه في 2019 , المسلسل مكون من عدة اجزاء ,الجزء الاول(عدد حلقاته:سبعه وعشرون حلقة) , ويدور المسلسل عن قصة حياةالسلطان عثمان مؤسس الدولة العثمانية.",
-    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+    "category_title": "عثمان 3",
+    "category":[
+      {
+        "series_title": "المؤسس عثمان 1",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 5",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      }
+    ]
   }
 ]
